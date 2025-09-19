@@ -1,4 +1,4 @@
 # DGPF-DTI： Decoupling-based Dual-Granularity Adaptive Pyramid Fusion Network for Drug-Target Interaction Prediction
 The Decoupling-based Dual-Granularity Adaptive Pyramid Fusion Network provides a significant improvement in drug-target interaction prediction by addressing the molecular size discrepancies
 between small drugs and large proteins. Our Decoupling-based Dual-Granularity Feature Learning Mechanism facilitates a deeper understanding of interactions at both macro and micro levels. The Adaptive Pyramid Fusion Network effectively aggregates diverse modality features, maximizing their complementary strengths. Benchmark results confirm that DGPF-DTI outperforms existing state-of-the-art models, demonstrating robust generalization capabilities, particularly with unseen drugs and targets. This work represents a significant advancement in DTI prediction, providing a reliable tool for future drug discovery efforts.
-[Fig1.pdf](https://github.com/user-attachments/files/22418917/Fig1.pdf)
+![Fig1_1](https://github.com/user-attachments/assets/64e9d66c-2eae-4509-b42d-4c3762c2c886)
